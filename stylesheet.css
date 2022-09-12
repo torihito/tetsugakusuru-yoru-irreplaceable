@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
 
+*{
+    box-sizing: border-box;
+  }
+
 header{
     background-color: aqua;
 }
 
 main{
-    width: auto;
+    width: 100%;
 }
 
 h1{
@@ -18,7 +22,8 @@ h1{
 .irreplaceable{
     float: left;
     width: 25%;
-    margin-right: 30px;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 img{
@@ -29,8 +34,7 @@ img{
 
 
 @media (max-width: 670px) {
-    .irreplaceable {
-        width: 50%;
-        margin-right: 30px;
+    .irreplaceable {width: 50%;
+      
     }
   }
