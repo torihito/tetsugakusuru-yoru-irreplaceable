@@ -29,7 +29,8 @@ img{
 
 
 @media (max-width: 670px) {
-    .irreplaceable {width: 50%;
-      
+    .irreplaceable {
+        width: 50%;
+        margin-right: 30px;
     }
   }
