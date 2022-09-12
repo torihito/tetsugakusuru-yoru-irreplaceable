@@ -42,9 +42,9 @@ img{
         text-align: center;
     }
 
-    /*img{
-        width: 25%;
-        height: 25%;
-    }*/
+    img{
+        width: auto;
+        height: auto;
+    }
    
   }
