@@ -25,3 +25,11 @@ img{
     width: 300px;
     height: 300px;
 }
+
+
+
+@media (max-width: 670px) {
+    .irreplaceable {width: 50%;
+      
+    }
+  }
