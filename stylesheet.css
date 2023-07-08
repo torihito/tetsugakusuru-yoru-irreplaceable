@@ -52,11 +52,7 @@ img{
     height: 100%;
 }
 
-.member {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-  }
+
 
 @media (max-width: 670px) {
     .irreplaceable {width: 50%;
